@@ -16,3 +16,6 @@ media.query(breakpoint, operator)
     // do your thang
  }
 ```
+
+
+demo https://jsfiddle.net/danielhq/ozu77rx6/3/
